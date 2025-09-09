@@ -3,4 +3,4 @@ Programa que permite realizar operaciones de suma y resta con numeros binarios, 
 
 ## Autores:
 Dominic Felipe robayo Devia 20241020072
-Julian Esteban Valencia Vargas 20241020048
+<br> Julian Esteban Valencia Vargas 20241020048
